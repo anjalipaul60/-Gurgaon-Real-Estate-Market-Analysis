@@ -63,7 +63,7 @@ gurgaon-real-estate-analysis/
 
 1. Clone the repository
    
-git clone https://github.com/anjalipaul60/gurgaon-real-estate-market-analysis.git
+git clone https://github.com/anjalipaul60/-Gurgaon-Real-Estate-Market-Analysis.git
 
 
 2. Navigate to the project folder
